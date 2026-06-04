@@ -98,6 +98,4 @@ public class Seller implements Serializable{
 		return "Seller [id=" + id + ", name=" + name + ", email=" + email + ", birthDate=" + birthDate + ", baseSalary="
 				+ baseSalary + ", department=" + department + "]";
 	}
-	
-	
 }
