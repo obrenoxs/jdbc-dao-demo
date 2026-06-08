@@ -31,7 +31,7 @@ public class Program2 {
 		
 		System.out.println("\n===== TEST 4: department update =====");
 		department = departmentDao.findById(2);
-		department.setId(6);
+		department.setId(7);
 		department.setName("Software");
 		departmentDao.update(department);
 		System.out.println("Update completed");
@@ -44,5 +44,4 @@ public class Program2 {
 		
 		sc.close();
 	}
-
 }
