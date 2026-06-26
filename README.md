@@ -83,8 +83,3 @@ Além disso, serviu para consolidar conceitos de arquitetura de software, organi
 # 👨‍💻 Autor
 
 **Breno Souza**
-
-
-## Author
-
-Breno Souza
